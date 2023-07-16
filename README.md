@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)
+
 <h1 align="center">Hi 👋, I'm @Nelum96</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
