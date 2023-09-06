@@ -11,7 +11,7 @@
 
 - 💎I'm interested in **Web Dev/ DevOPs**
 
-- 📫 How to reach me **bandaranelum96@gmail.com**
+- 📫 How to reach me **bandaranelum22@gmail.com**
   
 - 📧 Ask me about anthing. I am happy to help:
 
